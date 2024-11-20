@@ -4,8 +4,6 @@
 
 
 
-
-
 __Requisitos previo__      :Para utilizar el repositorio es necesario contar con algunos conocimientos previos básicos en lógica booleana, arquitectura de computadores. Además de contar con ciertos programas como algún editor de código como Visual Studio Code o alguno similar. También utilizaremos paginas web de edición de código para familiarizarnos con los diferentes lenguajes de programación.
 
 Para poder clonar el repositorio tienes tres formas de poder hacerlo:
@@ -35,36 +33,20 @@ Para poder clonar el repositorio tienes tres formas de poder hacerlo:
 
    - En GitHub en las opciones de clonación, puedes descargar directamente el repositorio como archivo ZIP. Una vez descargado, tendrás una copia de la carpeta del repositorio en tu computadora.    
       
-Descripción de ejercicios y contenido de clases.
+Descripción de ejercicios y contenido de clas.
 
-Clase 1:Presentacion de asignatura.
-Clase 2:Listas ordenadas y modificables.
-Clase 3:Calcular perímetro y área
-Clase 4:Ejercicios prácticos
-Clase 5:Anidadas, loops y while.
-Clase 6:Actividad practica 2.
-Clase 7:Ejercicios float
-Clase 8:calculadora
-Clase 9:Verificacion de números
-Clase 10:Autenticación-usuario
-Clase 11:Python
-Clase 12:Ejercicios Python
-
-
-Descripción de ejercicios y contenido de clases.
-
-Clase 1:Presentacion de asignatura.
-Clase 2:Listas ordenadas y modificables.
-Clase 3:Calcular perímetro y área
-Clase 4:Ejercicios prácticos
-Clase 5:Anidadas, loops y while.
-Clase 6:Actividad practica 2.
-Clase 7:Ejercicios float
-Clase 8:calculadora
-Clase 9:Verificacion de números
-Clase 10:Autenticación-usuario
-Clase 11:Python
-Clase 12:Ejercicios Python
+- Clase 1:Presentacion de asignatura.
+- Clase 2:Listas ordenadas y modificables.
+- Clase 3:Calcular perímetro y área
+- Clase 4:Ejercicios prácticos
+- Clase 5:Anidadas, loops y while.
+- Clase 6:Actividad practica 2.
+- Clase 7:Ejercicios float
+- Clase 8:calculadora
+- Clase 9:Verificacion de números
+- Clase 10:Autenticación-usuario
+- Clase 11:Python
+- Clase 12:Ejercicios Python
 
 
 Como ejecutar un archivo Python
