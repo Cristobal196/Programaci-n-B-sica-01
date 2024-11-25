@@ -37,16 +37,22 @@ Descripción de ejercicios y contenido de clas.
 
 - Clase 1:Presentacion de asignatura.
 - Clase 2:Listas ordenadas y modificables.
-- Clase 3:Calcular perímetro y área
-- Clase 4:Ejercicios prácticos
+- Clase 3:Calcular perímetro y área.
+- Clase 4:Ejercicios prácticos.
 - Clase 5:Anidadas, loops y while.
 - Clase 6:Actividad practica 2.
-- Clase 7:Ejercicios float
-- Clase 8:calculadora
-- Clase 9:Verificacion de números
-- Clase 10:Autenticación-usuario
-- Clase 11:Python
-- Clase 12:Ejercicios Python
+- Clase 7:Ejercicios float.
+- Clase 8:calculadora.
+- Clase 9:Verificacion de números.
+- Clase 10:Autenticación-usuario.
+- Clase 11:Python.
+- Clase 12:Coche Python.
+- Clase 13:Ejercicios Python.
+- Clase 14:Ejercicios Python.
+- Clase 15:Ejercicios Python.
+- Clase 16:Ejercicios Python.
+- Clase 17:Proyecto Python.
+- Clase 18:Ejercicio juego.
 
 
 Como ejecutar un archivo Python
